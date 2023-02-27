@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Update the demo1.java at local"); 
+    }
+}
+=======
+public class demo2{
+   public static void main(String [] agrs);{
+   System.out.println("Updating the demo1.java file at remote")
+   }
+   }
+>>>>>>> 2a79f4e5a592cb47b10485c706b9f76326bec3db
